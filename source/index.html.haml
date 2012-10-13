@@ -1,0 +1,31 @@
+#page
+  %header
+    %h1 Johannes Wagener
+    .image.right{:style => "background-image: url(/images/me.jpg)"}
+    .description
+      I waste my time creating random computer things.
+  %h2 What I've done so far:
+  %ul.works
+    - data.works.each do |work|
+      %li
+        %a.image.left{:style => "background-image: url(#{work["image"]})", :target => "_blank", :href => work["href"]}
+        .left{:style => "width: 400px"}
+          %a{:target => "_blank", :href => work["href"], :class => "title"}
+            %h3= work["title"]
+          %p= work["description"]
+
+  %h2 What inspired me:
+  %iframe{:frameborder => "0", :scrolling => "no", :src => "http://nearness.org/http%3A%2F%2Fjohannes.wagener.cc%2F/likes.html"}
+  .right (Collected on <a href="http://nearness.org">Nearness.org</a>)
+
+  %h2 Stay in touch:
+
+  Keep track of what I'm up to next on the <a href="http://lolcat.biz">Operation: lolcat.biz blog</a>,
+  %br
+  on twitter via
+  %a{href: "http://twitter.com/johanneswagener"} @johanneswagener
+  .twitter
+    %a.twitter-follow-button{"data-show-count" => "false", "data-show-screen-name" => "false", :href => "https://twitter.com/johanneswagener"} Follow @johanneswagener
+
+  or shoot a mail to <a href="mailto:johannes@wagener.cc">johannes@wagener.cc</a>.
+  %script{:src => "//platform.twitter.com/widgets.js", :type => "text/javascript"}

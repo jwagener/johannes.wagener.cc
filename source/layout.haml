@@ -1,0 +1,16 @@
+!!! 5
+%head
+  %meta{:charset => 'utf-8'}
+  %title
+    = @head_title
+  %meta{:name => 'descrtiption', :content => @description}
+  %meta{:name => 'viewport', :content => 'width=device-width, initial-scale=1'}
+  %link{:rel => 'shortcut icon', :href => '/favicon.png'}
+  = stylesheet_link_tag "style.css"
+  <script type="text/javascript" src="http://use.typekit.com/lsf1tfl.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+%body{:class => "tk-liberation-serif"}
+  = yield
+  %script{:src => '/js/libs/jquery.js'}
+  %script{:src => '/js/scripts.js'}

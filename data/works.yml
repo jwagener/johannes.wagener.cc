@@ -1,0 +1,114 @@
+- title: TypeWriter.tw
+  href:  http://typewriter.tw
+  image: http://typewriter.tw/icon.png
+  description: |
+    TypeWriter.tw is a text editor for the web that lets you draft, collect and share your writings.
+
+- title: The Road to Battleborn for The Killers
+  href:  http://battleborn.fm
+  image: http://www.thewarehouse.co.nz/is-bin/intershop.static/WFS/TWL-B2C-Site/TWL-B2C/en_NZ/product/large/602537118748_l.jpg
+  description: |
+    Take your friends on a roadtrip and listen to the new The Killers album.
+    Also built together with <a href="http://leemartin.com">Lee Martin</a>.
+
+- title: The Social Connectome for Muse
+  href:  http://connectome.muse.mu
+  image: http://images.bwwstatic.com/columnpic6/22AE9859D-918F-D7A7-456C4DFDB17DDE56.jpg
+  description: |
+    A visualization of social connections showing how Muse fans discovered the new Muse album through their friends.
+    Built together with <a href="http://leemartin.com">Lee Martin</a>.
+
+- title: The Adventures of Stan
+  href:  http://stans-adventures.herokuapp.com
+  image: http://stans-adventures.herokuapp.com/images/logo.png
+  description: |
+    The Adventures of Stan was my first experiment to build a little adventure.
+    The artwork is blatantly stolen and the storyline work in progress.
+
+- title: Ency.cl/opedia
+  href:  http://ency.cl/opedia
+  image: http://ency.cl/images/wiki-globe200.png
+  description: |
+    Ency.cl/opedia is an experiment to improve the Wikipedia reading experience. It's focus is on a clutter free, simple design and features that improve exploration and curation.
+    I wrote a bit more on my motivation behind this project on my <a href="http://lolcat.biz/post/27368236760/ency-cl-opedia" target="_blank">blog</a>.
+
+- title: StoryWheel
+  href:  http://storywheel.cc
+  image: http://storywheel.cc/facebook_2.jpg
+  description: |
+    Create old-school slideshows from your instagram pictures and tell the story around them.
+    It was inspired by the <a href="http://www.youtube.com/watch?v=suRDUFpsHus">carousel pitch</a> from Mad Men.
+    Here are my favorite stories submitted by users: <a href="http://storywheel.cc/steve-mays/a-story">1</a>
+    <a href="http://storywheel.cc/im2b/my-home">2</a> and <a href="http://storywheel.cc/hankus/my-new-friend">3</a>.
+
+- title: |
+    Operation: lolcat.biz
+  image: /images/lolcatbiz.png
+  href: "http://lolcat.biz"
+  description: |
+    After a pivot lolcat.biz turned into an incubator to breed out all my new personal projects and tell the world about them.
+    Read and follow the <a href="http://lolcat.biz">blog</a>.
+
+- title: SoundCloud Javascript SDK
+  href: "http://developers.soundcloud.com/docs/javascript"
+  image: /images/soundcloud.png
+  description: |
+    While working at SoundCloud I've created a Javascript SDK, similar to the Facebooks SDK, that provides access to 
+    the API but also brings audio recording and streaming capabilities.
+
+- title: Waveform.js
+  image: /images/waveformjs.png
+  href: "http://waveformjs.org"
+  description: |
+    Waveform.js makes drawing SoundCloud waveforms simple and lets you style and color them the way you want it. It comes as a small JavaScript library and is using a lightweight service hosted on waveformjs.org that translates the waveform images provided by SoundCloud into floating points.
+
+- title: Recorder.js
+  image: /images/recorderjs.png
+  href: "http://github.com/jwagener/recorder.js"
+  description: |
+    Recorder.js is a lightweight Adobe Flash tool, wrapped with a Javascript API, to record and upload audio in the browser.
+
+- title: Concert 2021
+  href:  http://concert2021.com
+  image: http://concert2021.com/preview.png
+  description: |
+    Ever wondered how concerts will look like in 2021?
+    <a href="http://concert2021.com">Concert 2021 is the answer</a>.
+    And it even made it to the <a href="http://www.wired.com/underwire/2012/02/concert-2021/">wired.com frontpage</a>!
+
+- title: HTTMultiParty
+  image: /images/party.jpeg
+  href:  https://github.com/jwagener/httmultiparty
+  description: |
+    HTTMultiParty is a ruby gem that wraps around HTTParty to support multipart uploads.
+
+- title: FavoriteColor.co
+  image: /images/favoritecolor.png
+  href: "http://favoritecolor.co"
+  description: |
+    Everybody has a favorite color! Pick yours, share it with your friends or install it as an app on your phone.
+
+- title: ponyScript
+  href:  http://ponyscript.com
+  image: /images/ponyscript.png
+  description: |
+    Write, run & share server-side javascripts on <a href="http://ponyscript.com">ponyScript</a>.
+
+- title: ponyHo.st
+  href:  http://ponyho.st
+  image: http://ponyho.st/images/pony.png
+  description: |
+    A simple webservice and ruby gem to create and maintain static websites on your Amazon S3 account.
+    It takes 2 simple commands to get a site up and running under a *.ponyho.st domain.
+
+- title: The original lolcat.biz
+  image: http://next.lolcat.biz/images/longcat-square.png
+  href: http://next.lolcat.biz
+  description: |
+    What lolcat.biz before the pivot was: loltent in its longest and purest form.
+
+- title: Mindmap
+  image: /images/mindmap.png
+  href: http://mindmap.n31.de
+  description: |
+    One of my early hacks. A realtime collaborative mindmap tool.
